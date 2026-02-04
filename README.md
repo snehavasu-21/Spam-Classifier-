@@ -15,9 +15,13 @@ Vectorizes text using TF-IDF
 Trains Naive Bayes classifier
 Evaluates performance with precision, recall, F1-score
 Predicts custom inputs
-🎯 Objective Create a predictive classification model using scikit-learn. We’ll build a Spam Email Classifier that uses text features to predict if a message is "spam" or "ham" (not spam).
+
+🎯 Objective 
+
+Create a predictive classification model using scikit-learn. We’ll build a Spam Email Classifier that uses text features to predict if a message is "spam" or "ham" (not spam).
 
 📁 Files Included
+
 spam_classifier.ipynb - Jupyter Notebook with all code and results
 spam.csv - Sample labeled dataset
 requirements.txt - Required libraries
@@ -25,5 +29,6 @@ spam_classifier_confusion_matrix.png - Confusion Matrix of the spam classifier m
 README.md - Documentation
 
 🚀 How to Run
+
 1. Install required packages
 pip install -r requirements.txt
